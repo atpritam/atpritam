@@ -3,7 +3,7 @@
 🎓 Computer Science student | 💻 Software Development enthusiast | 🤖 AI explorer
 
 ---
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
