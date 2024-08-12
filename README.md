@@ -3,7 +3,7 @@
 🎓 Computer Science student | 💻 Software Development enthusiast | 🤖 AI explorer
 
 ---
-<div align="center">
+<div>
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   </a>
