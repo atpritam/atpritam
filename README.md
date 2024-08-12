@@ -30,8 +30,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
@@ -57,8 +55,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
@@ -76,6 +72,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
