@@ -1,5 +1,7 @@
 # Hi, I'm Pritam 👋
 
+![Banner Image](https://user-images.githubusercontent.com/banner.png) <!-- Replace with your banner URL -->
+
 🎓 Computer Science student | 💻 Software Development enthusiast | 🤖 AI explorer
 
 ---
@@ -73,6 +75,12 @@
   </tr>
 </table>
 
+
+---
+
+## 👁️ Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=itssodope01&color=blue)
 
 ---
 
