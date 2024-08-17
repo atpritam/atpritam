@@ -1,6 +1,6 @@
 # Hi, I'm Pritam 👋
 
-🎓 Computer Science student | 💻 Software Development enthusiast | 🤖 AI explorer
+🎓 Computer Science student | 💻 Aspiring Full Stack Web & App Developer | 🤖 AI explorer 
 
 ---
 
