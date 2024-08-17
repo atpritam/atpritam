@@ -2,8 +2,7 @@
 
 🎓 Computer Science student
 
-#### 💻 Currently Working On:
-I'm developing a **Full Stack Events Creation and Management Application**. This platform allows users to create, manage, and purchase tickets for events, functioning as a dynamic events marketplace.
+💻 Currently working on a **Full Stack Events Creation and Management Application**. This platform allows users to create, manage, and purchase tickets for events, functioning as a dynamic events marketplace.[React](https://reactjs.org/), [Node.js](https://nodejs.org/), [Next.js](https://nextjs.org/), and [MongoDB](https://www.mongodb.com/)
 
 ---
 
