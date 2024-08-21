@@ -1,8 +1,10 @@
 # Hi, I'm Pritam 👋
 
-🎓 Computer Science student
+🎓 Computer Science Student
 
-💻 Currently working on a **Full Stack Events Creation and Management Application**. This platform allows users to create, manage, and purchase tickets for events, functioning as a dynamic events marketplace.
+💻 Learning Full Stack App & Web Development
+
+🤖 AI Enthusiast — Passionate about exploring the world of artificial intelligence and machine learning.
 
 ---
 
