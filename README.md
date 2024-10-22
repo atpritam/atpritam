@@ -4,7 +4,7 @@
 
 💻 Learning Full Stack App & Web Development
 
-🤖 AI Enthusiast — Passionate about exploring the world of artificial intelligence and machine learning.
+🤖 AI Enthusiast — Passionate about exploring artificial intelligence and machine learning.
 
 ---
 
