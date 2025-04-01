@@ -1,10 +1,8 @@
 # Hi, I'm Pritam 👋
 
-🎓 Computer Science Student
+🎓 Computer Science Student @ AGH
 
 💻 Learning Full Stack App & Web Development
-
-🤖 AI Enthusiast — Passionate about exploring artificial intelligence and machine learning.
 
 ---
 
