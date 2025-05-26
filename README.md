@@ -1,7 +1,6 @@
 # Hi, I'm Pritam 👋
 
-🎓 Computer Science Student @ AGH University of Science & Technology /
-Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie
+🎓 Computer Science Student @ AGH / [agh.edu.pl/en](https://www.agh.edu.pl/en/)
 
 ---
 
