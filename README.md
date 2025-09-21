@@ -1,6 +1,6 @@
 # Hi, I'm Pritam 👋
 
-🎓 Computer Science Student @ AGH / [agh.edu.pl/en](https://www.agh.edu.pl/en/)
+🎓 Computer Science Student @ AGH
 
 ---
 
