@@ -1,6 +1,7 @@
 # Hi, I'm Pritam 👋
 
-🎓 Computer Science Student @ AGH
+AI Engineer 
+🎓 Computer Science Graduate @ AGH
 
 ---
 
